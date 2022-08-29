@@ -38,4 +38,3 @@ resource "aws_subnet" "production-public-subnet" {
     }
 }
 
-# public aws instance
